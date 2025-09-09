@@ -1,5 +1,5 @@
 {
-  "name": "shri-nocli",
+  "name": "shri-no-cli",
   "version": "1.0.0",
   "description": "A cli log remover tool",
   "type": "module",
